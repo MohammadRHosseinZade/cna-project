@@ -336,37 +336,7 @@ python main.py --device cpu
    - The script will skip invalid SMILES with a warning
    - Check console output for skipped molecules
 
-## Citation
 
-If you use this implementation, please cite:
-
-```bibtex
-@software{sfge_apistox,
-  title={SFGE Model: Simplicial-Fuzzy-Graph-Enhanced Model for ApisTox},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/sfge-apistox}
-}
-```
-
-## License
-
-[Specify your license here]
-
-## Acknowledgments
-
-- ApisTox dataset providers
-- PyTorch Geometric team
-- RDKit developers
-- Research community in Topological Data Analysis and Graph Neural Networks
-
-## Contact
-
-For questions, issues, or contributions, please open an issue on the project repository.
-
----
-
-**Last Updated**: 2024
 
 **Version**: 1.0.0
 
